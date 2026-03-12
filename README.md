@@ -13,8 +13,9 @@
 - 🖥️ **Frontend**: React.js, Next.js, Tailwind CSS  
 - ⚙️ **Backend**: Node.js, Express.js, MongoDB with Mongoose , PostgreSQL 
 - 💡 Exploring **AI + Web** and modern technologies
-- 🌍 Live Projects: https://www.wellnessforever.com/ | https://thesleepcompany.in/ | https://www.designcafe.com/ | https://superseva.com/
+- 📫 Phone No : +91 7204864277
 - 📫 Contact: **kiransiddeshwar@gmail.com**
+- 🌍 Live Projects: https://www.wellnessforever.com/ | https://thesleepcompany.in/ | https://www.designcafe.com/ | https://superseva.com/
 
 ---
 
