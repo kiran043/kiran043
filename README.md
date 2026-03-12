@@ -12,7 +12,8 @@
 - 🌐 Building modern, responsive & scalable **full stack web apps**  
 - 🖥️ **Frontend**: React.js, Next.js, Tailwind CSS  
 - ⚙️ **Backend**: Node.js, Express.js, MongoDB with Mongoose , PostgreSQL 
-- 💡 Exploring **AI + Web** and modern technologies  
+- 💡 Exploring **AI + Web** and modern technologies
+- 🌍 Live Projects: https://www.wellnessforever.com/ | https://thesleepcompany.in/ | https://www.designcafe.com/ | https://superseva.com/
 - 📫 Contact: **kiransiddeshwar@gmail.com**
 
 ---
