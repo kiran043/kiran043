@@ -11,7 +11,7 @@
 
 - 🌐 Building modern, responsive & scalable **full stack web apps**  
 - 🖥️ **Frontend**: React.js, Next.js, Tailwind CSS  
-- ⚙️ **Backend**: Node.js, Express.js, MongoDB with Mongoose  
+- ⚙️ **Backend**: Node.js, Express.js, MongoDB with Mongoose , PostgreSQL 
 - 💡 Exploring **AI + Web** and modern technologies  
 - 📫 Contact: **kiransiddeshwar@gmail.com**
 
