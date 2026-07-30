@@ -15,7 +15,7 @@
 - 💡 Exploring **AI + Web** and modern technologies
 - 📫 Phone No : +91 7204864277
 - 📫 Contact: **kiransiddeshwar@gmail.com**
-- 🌍 Live Projects: https://www.wellnessforever.com/ | https://thesleepcompany.in/ | https://www.designcafe.com/ | https://superseva.com/
+- 🌍 Live Projects: https://www.wellnessforever.com/ | https://thesleepcompany.in/ | https://www.designcafe.com/ | https://superseva.com/ | https://dplyfactory.in/
 
 ---
 
