@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kiran Siddeshwar 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | React & Next.js | Node.js & MongoDB</h3>
+<h3 align="center">🚀 Full Stack Developer | React & Next.js | Node.js & MongoDB | Python</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=600&size=30&duration=1000&pause=1000&center=true&width=650&lines=Full+Stack+Developer;Frontend:+React+%26+Next.js;Backend:+Node.js+%26+Express;MongoDB+with+Mongoose;Tech+Explorer+%F0%9F%9A%80;Gamer+%E2%9A%BD" alt="Typing SVG" />
@@ -27,6 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="CSS3" />
 </p>
 
 #### 🧩 Frameworks & Libraries
